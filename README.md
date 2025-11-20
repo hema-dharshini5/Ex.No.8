@@ -2,6 +2,7 @@
 # **Exp 8: Reproducing an Image Using Prompts for Image Generation**
 
 **Date :17/11/25**
+
 **Register No : 212223220034**
 
 ## **Aim:**
