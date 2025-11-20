@@ -73,9 +73,10 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 * **Image 2:**
   
   “A realistic still-life image of a ceramic bowl filled with apples, grapes, and bananas placed on a wooden table, captured under soft indoor lighting with clear textures and natural shadows.”
+  
 
+<img width="1024" height="1024" alt="Gemini_Generated_Image_9d9ag89d9ag89d9a" src="https://github.com/user-attachments/assets/53e835c5-dc37-4bbb-96a4-bf022bf5661d" />
 
-<img width="1024" height="1024" alt="Gemini_Generated_Image_pimdtlpimdtlpimd" src="https://github.com/user-attachments/assets/de61159e-28b7-4612-b350-043f68d9761f" />
 
 
 ## **Comparison Report:**
